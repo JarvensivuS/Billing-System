@@ -21,3 +21,11 @@ After the prodcuts have been added we fill our the payees information, see our t
 
 ![image](https://user-images.githubusercontent.com/47556122/213910721-8f6fb176-8b39-4ba6-b96e-6d50c65536ac.png)
 #
+Printing the bill to PDF.
+
+![8da461c15c2aa66bda8a4580fcf50067](https://user-images.githubusercontent.com/47556122/213911219-7dabb666-fa97-41c0-8f02-869a37699b78.gif)
+#
+And the final bill in PDF form.
+
+![image](https://user-images.githubusercontent.com/47556122/213911282-8e2b49f8-b523-48d1-a624-c435ec068480.png)
+[bill.pdf](https://github.com/JarvensivuS/Billing-System/files/10474167/bill.pdf)
