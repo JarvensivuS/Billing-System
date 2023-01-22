@@ -1,11 +1,10 @@
 # Billing-System
 Thesis work of my Vocational studies in Omnia. 
-The idea was that you can send the same bill to multiple payers by loading a csv file containing the information of the customers.
+The idea is that you can print the same bill to multiple payers by loading a csv file containing the information of the customers and quickly swaping the payer information from the buttons. All that is required is a new bill number and that will generate a reference number for each bill accordingly.
 Unfortunately i didnt save the source code and only the exe file remains. 
 Written in Java.
 # 
 User is able to choose a csv file containing the name, address informations and email of the payers.
-
 
 ![c853aa39ac3dd352961e345d13cbe8d3](https://user-images.githubusercontent.com/47556122/213909775-3e47b9e3-4326-43d9-bac5-d9b1ac664348.gif)
 #
