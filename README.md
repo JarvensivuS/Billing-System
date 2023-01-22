@@ -27,7 +27,9 @@ Printing the bill to PDF.
 And the bills for all three customers.
 
 [bill2.pdf](https://github.com/JarvensivuS/Billing-System/files/10474189/bill2.pdf)
+
 [bill3.pdf](https://github.com/JarvensivuS/Billing-System/files/10474190/bill3.pdf)
+
 [bill.pdf](https://github.com/JarvensivuS/Billing-System/files/10474191/bill.pdf)
 
 #
