@@ -13,6 +13,11 @@ We input bill information.
 
 ![image](https://user-images.githubusercontent.com/47556122/213910025-154645e5-1d4a-430d-8534-289c7bc49682.png)
 #
-We can add the products, amount of each product, price per one item and the tax after which it calculates the total price for us.
+We can add the products, amount of each product, price per one item and the tax after which it calculates the price for us.
 
 ![f7b12ac89cbb54ae224e0c63903b30b5](https://user-images.githubusercontent.com/47556122/213910228-9b08ee94-6190-4ea5-825e-5774434f6041.gif)
+#
+After the prodcuts have been added we fill our the payees information, see our total price of 1574.6e in this case and are ready to print the bill.
+
+![image](https://user-images.githubusercontent.com/47556122/213910721-8f6fb176-8b39-4ba6-b96e-6d50c65536ac.png)
+#
