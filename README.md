@@ -11,7 +11,7 @@ User is able to choose a csv file containing the name, address informations and 
 #
 We input bill information.
 
-![image](https://user-images.githubusercontent.com/47556122/213910025-154645e5-1d4a-430d-8534-289c7bc49682.png)
+![image](https://user-images.githubusercontent.com/47556122/213910983-91d14599-5f1a-4ffd-8078-33df62ce001a.png)
 #
 We can add the products, amount of each product, price per one item and the tax after which it calculates the price for us.
 
