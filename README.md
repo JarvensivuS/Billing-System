@@ -1,8 +1,8 @@
 # Billing-System
 Thesis work of my vocational studies in Omnia, Espoo. 
-The idea is that you can print the same bill to multiple people by loading a csv file containing the information of the customers and quickly changing the personal information from the buttons. All that is required is a new bill number and that will generate a reference number for each bill accordingly.
+The idea is that you can print the same bill to multiple people by loading a csv file containing the information of the customers and be able to quickly change the personal information from the buttons. All that is required is a new bill number and that will generate a reference number for each bill accordingly.
 Unfortunately i did not save the source code and only the exe file remains. 
-Written in Java/Finnish.
+Written in Java using the Swing library for the ui.
 # 
 User is able to choose a csv file containing the name, address informations and email of the payers and can swap the customer information by using the buttons.
 
